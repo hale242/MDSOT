@@ -1,0 +1,22 @@
+sale_order = มาจาก Customer contract ที่สถานะเป็น 4
+sale_order_list = Auto generate ตามจำนวนรอบบิล อ้างอิงจาก Sale Order
+
+invoice_order = ถูก Gen มาพร้อมกับ sale_order_list โดย
+== หลักการ ==
+1 SOL* จะมี IVO** ขึ้นอยู่กับจำนวนของ Unit (Driver) ที่ต้องการตามใบเสนอราคาแล้ว x2 สำหรับ IVO** ปกติ และ IVOOT***
+== ****** ==
+
+invoice_order_list = Auto generate ตามจำนวนรอบบิล
+
+
+
+
+
+Remark
+* SOL = Sale Order List
+** IVO = Invoice Order
+*** IVOOT = Invoice Order OT
+
+
+===================================
+starttime == endtime
